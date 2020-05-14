@@ -1,0 +1,49 @@
+
+h2 {
+	color: #AA4193;
+	text-align: center;
+	border: 2px solid rgba(210,87,155,0.5);
+	cursor: pointer;
+}
+
+ p {
+	color: #AA4193;
+	text-align: center;
+	border: 2px solid rgba(210,87,155,0.5);
+	cursor: pointer;
+}
+p{
+	line-height: 30px;
+	font-style:italic;
+	font-weight: bold;
+	font-size: 120%;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext{
+	border:1px darkgreen solid;
+}
+
+.active{
+	color: tomato;
+}
+
+#div1{
+	background-color: rgba(255,255,255,0.5);
+}
+
+#div2{
+	background-color: rgba(0,255,0,0.2);
+}
+
+footer{
+	text-align: center;
+	text-shadow: 20px,20px;
+	color:gray;
+	border: 2px solid gray;
+}
